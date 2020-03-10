@@ -3129,26 +3129,26 @@
       </reaction>
       <reaction fast="false" id="R_BIO_AA_W" reversible="false" name="Amino acids" fbc:upperFluxBound="R_BIO_AA_W_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_W00025" stoichiometry="0.066"/>
-          <speciesReference constant="true" species="M_W00037" stoichiometry="0.049"/>
-          <speciesReference constant="true" species="M_W00041" stoichiometry="0.06"/>
-          <speciesReference constant="true" species="M_W00047" stoichiometry="0.063"/>
-          <speciesReference constant="true" species="M_W00049" stoichiometry="0.054"/>
-          <speciesReference constant="true" species="M_W00062" stoichiometry="0.056"/>
-          <speciesReference constant="true" species="M_W00064" stoichiometry="0.041"/>
-          <speciesReference constant="true" species="M_W00065" stoichiometry="0.082"/>
-          <speciesReference constant="true" species="M_W00073" stoichiometry="0.025"/>
-          <speciesReference constant="true" species="M_W00078" stoichiometry="0.011"/>
-          <speciesReference constant="true" species="M_W00079" stoichiometry="0.044"/>
-          <speciesReference constant="true" species="M_W00082" stoichiometry="0.032"/>
-          <speciesReference constant="true" species="M_W00097" stoichiometry="0.022"/>
-          <speciesReference constant="true" species="M_W00123" stoichiometry="0.093"/>
-          <speciesReference constant="true" species="M_W00135" stoichiometry="0.024"/>
-          <speciesReference constant="true" species="M_W00148" stoichiometry="0.042"/>
+          <speciesReference constant="true" species="M_W00025" stoichiometry="0.068"/>
+          <speciesReference constant="true" species="M_W00037" stoichiometry="0.067"/>
+          <speciesReference constant="true" species="M_W00041" stoichiometry="0.065"/>
+          <speciesReference constant="true" species="M_W00047" stoichiometry="0.086"/>
+          <speciesReference constant="true" species="M_W00049" stoichiometry="0.053"/>
+          <speciesReference constant="true" species="M_W00062" stoichiometry="0.043"/>
+          <speciesReference constant="true" species="M_W00064" stoichiometry="0.03"/>
+          <speciesReference constant="true" species="M_W00065" stoichiometry="0.077"/>
+          <speciesReference constant="true" species="M_W00073" stoichiometry="0.024"/>
+          <speciesReference constant="true" species="M_W00078" stoichiometry="0.007"/>
+          <speciesReference constant="true" species="M_W00079" stoichiometry="0.042"/>
+          <speciesReference constant="true" species="M_W00082" stoichiometry="0.033"/>
+          <speciesReference constant="true" species="M_W00097" stoichiometry="0.013"/>
+          <speciesReference constant="true" species="M_W00123" stoichiometry="0.089"/>
+          <speciesReference constant="true" species="M_W00135" stoichiometry="0.019"/>
+          <speciesReference constant="true" species="M_W00148" stoichiometry="0.032"/>
           <speciesReference constant="true" species="M_W00152" stoichiometry="0.053"/>
-          <speciesReference constant="true" species="M_W00183" stoichiometry="0.057"/>
-          <speciesReference constant="true" species="M_W00188" stoichiometry="0.056"/>
-          <speciesReference constant="true" species="M_W00407" stoichiometry="0.069"/>
+          <speciesReference constant="true" species="M_W00183" stoichiometry="0.071"/>
+          <speciesReference constant="true" species="M_W00188" stoichiometry="0.044"/>
+          <speciesReference constant="true" species="M_W00407" stoichiometry="0.085"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_Bio_aa_raw_w" stoichiometry="1"/>
@@ -3222,10 +3222,10 @@
       </reaction>
       <reaction fast="false" id="R_BIO_DNA_W" reversible="false" name="DNA (A,G,C,T)" fbc:upperFluxBound="R_BIO_DNA_W_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_W00131" stoichiometry="0.3321"/>
-          <speciesReference constant="true" species="M_W00286" stoichiometry="0.1651"/>
-          <speciesReference constant="true" species="M_W00458" stoichiometry="0.1767"/>
-          <speciesReference constant="true" species="M_W00459" stoichiometry="0.3206"/>
+          <speciesReference constant="true" species="M_W00131" stoichiometry="0.329"/>
+          <speciesReference constant="true" species="M_W00286" stoichiometry="0.171"/>
+          <speciesReference constant="true" species="M_W00458" stoichiometry="0.171"/>
+          <speciesReference constant="true" species="M_W00459" stoichiometry="0.329"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_Bio_dna_raw_w" stoichiometry="1"/>
@@ -3334,10 +3334,10 @@
       </reaction>
       <reaction fast="false" id="R_BIO_RNA_W" reversible="false" name="RNA (A,G,C,T)" fbc:upperFluxBound="R_BIO_RNA_W_upper_bound" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_W00002" stoichiometry="0.324"/>
-          <speciesReference constant="true" species="M_W00044" stoichiometry="0.208"/>
-          <speciesReference constant="true" species="M_W00063" stoichiometry="0.178"/>
-          <speciesReference constant="true" species="M_W00075" stoichiometry="0.29"/>
+          <speciesReference constant="true" species="M_W00002" stoichiometry="0.345"/>
+          <speciesReference constant="true" species="M_W00044" stoichiometry="0.214"/>
+          <speciesReference constant="true" species="M_W00063" stoichiometry="0.145"/>
+          <speciesReference constant="true" species="M_W00075" stoichiometry="0.295"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_Bio_rna_raw_w" stoichiometry="1"/>
