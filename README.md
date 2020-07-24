@@ -1,5 +1,6 @@
 # Brugia_metabolic_network
-Files pertaining to our paper on the genome-scale metabolic network reconstruction for Brugia malayi.
+Files pertaining to our paper on the genome-scale metabolic network reconstruction for Brugia malayi
+- Curran, Grote et al., 2020. "Modeling the metabolic interplay between a parasitic worm and its bacterial endosymbiont allows the identification of novel drug targets", _eLife_ https://doi.org/10.7554/eLife.51850
 
 Model files
 ===========
